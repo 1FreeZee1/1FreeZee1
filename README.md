@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am 1FreeZee1
+I am studying at ZGU University, in the field of information systems and technologies
+I work in languages such as (HTML,Python,C#,C++)
 
 <!--
 **1FreeZee1/1FreeZee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
